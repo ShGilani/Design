@@ -27,7 +27,16 @@ Can it be made generic, reusable. ( based on code, based on location like a comm
 
 -----------------------------------------------------
 
-- Load Balancing
--
+- Load Balancing. This is mostly for Web Servers.
+
+Caching:
+- Database Caching ( In memory caching ). Commonly used cache: Redis, Cassandra, MemeCache.
+Database Replication: Master Slave.
+Sharding Technique: 
+Mix of RDBMS and No SQL DBs
+
+- Content - CDN
+
+  
 
 

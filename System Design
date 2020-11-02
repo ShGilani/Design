@@ -5,8 +5,29 @@
 - System Performance:
 - Cost: Cost of development, Cost of Maintenance
 - Security:
+---------------------------------------------------
+
+High Level Architechture Digram
 
 
 
+----------------------------------------------------
+
+- API Design.
+
+- Data Model Design.
+
+- Low level Technical Design
+What functions can the system perform? calculate, findTheHighest, display
+For each function, What would be the input, output
+Can it be made generic, reusable. ( based on code, based on location like a common util project)
 
 - Technology Stack, Weigh Pros ad Cons
+
+
+-----------------------------------------------------
+
+- Load Balancing
+-
+
+

@@ -1,0 +1,12 @@
+Why Cache:
+To save network calls ( from Web server to DB )
+
+Cache policies:
+-------------------
+LRU: Kick out the Least Recently Used
+
+Types of Cache:
+-------------
+In memory (On the same Web Server M/C)
+
+vdk
